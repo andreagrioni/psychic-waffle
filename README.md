@@ -15,3 +15,7 @@ notes and tools for bioinformatics
 
 ### Ensembl API R
 1. BioMart databases R interface [here](https://bioconductor.org/packages/release/bioc/html/biomaRt.html)
+
+## Gene Set Enrichment Analysis
+
+1. https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/06_Gene_set_testing.nb.html#fgsea
