@@ -11,6 +11,11 @@ notes and tools for bioinformatics
 1. Bioconductor - Granulator [here](https://www.bioconductor.org/packages/release/bioc/html/granulator.html)
 2. MuSiC: Multi-subject Single-Cell Deconvolution [here](https://xuranw.github.io/MuSiC/articles/MuSiC.html)
 
+### Pathway Analysis
+
+1. Bioinformatics Class 15 – RPubs [here](https://rpubs.com/barryus/class15)
+2. PathFindR Package – [here](https://cran.r-project.org/web/packages/pathfindR/vignettes/intro_vignette.html)
+
 ## Annotation
 
 ### Ensembl API R
