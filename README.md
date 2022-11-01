@@ -24,3 +24,7 @@ notes and tools for bioinformatics
 ## Gene Set Enrichment Analysis
 
 1. https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/06_Gene_set_testing.nb.html#fgsea
+
+## Biostat
+
+1. non paramentric test [here](https://bookdown.org/thomas_pernet/Tuto/non-parametric-tests.html#mann-whitney-wilcoxon-test)
