@@ -28,3 +28,8 @@ notes and tools for bioinformatics
 ## Biostat
 
 1. non paramentric test [here](https://bookdown.org/thomas_pernet/Tuto/non-parametric-tests.html#mann-whitney-wilcoxon-test)
+
+## Shiny
+
+1. Rhino Shiny App [here](https://appsilon.github.io/rhino/index.html)
+2. reactable [here](https://glin.github.io/reactable/index.html)
